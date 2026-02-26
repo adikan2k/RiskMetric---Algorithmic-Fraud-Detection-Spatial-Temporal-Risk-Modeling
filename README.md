@@ -9,6 +9,20 @@
 
 ---
 
+### 📊 Executive Overview
+![RiskMetric Landing Page](Riskmetric%20Landing%20page.png)
+*The executive dashboard provides real-time KPI tracking, fraud archetype distributions, and spatial-temporal risk metrics across all processed transactions.*
+
+### 🗺️ Geographic & Behavioral Analysis
+![RiskMetric Geographic Analysis](Riskmetric%202.png)
+*Detailed spatial analysis mapping impossible travel hotspots, alongside velocity spike and behavioral drift detection metrics to identify compromised accounts.*
+
+### 🚨 Operational Triage Queue
+![RiskMetric Triage Queue](Triage%20Queue.png)
+*An interactive alert management system allowing fraud analysts to filter by risk tier, review evidence (e.g., ground speed, Z-scores), and disposition cases in real-time.*
+
+---
+
 ## Architecture — Medallion System
 
 ```
